@@ -1,6 +1,6 @@
 # AI Product Manager Portfolio
 
-This repository contains my AI Product Manager (AI PM) portfolio — a curated collection of projects, case studies, artifacts, and experiments that demonstrate my skills in product strategy, AI-driven solutions, stakeholder alignment, and delivery.
+This repository contains my AI Product Manager (AI PM - Name) portfolio — a curated collection of projects, case studies, artifacts, and experiments that demonstrate my skills in product strategy, AI-driven solutions, stakeholder alignment, and delivery.
 
 ## About
 
