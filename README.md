@@ -1,4 +1,4 @@
-# AI Product Manager Portfolio
+# AI Product Manager Portfolio - Neha
 
 This repository contains my AI Product Manager (AI PM - Name) portfolio — a curated collection of projects, case studies, artifacts, and experiments that demonstrate my skills in product strategy, AI-driven solutions, stakeholder alignment, and delivery.
 
